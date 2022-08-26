@@ -11,7 +11,9 @@ GET, POST запросы на сервер.
 Работа с состоянием компонента.
 
 ![3 2](https://user-images.githubusercontent.com/101303690/186926066-6f3b2574-b1f3-4024-a90a-6baf59b8f5ed.png)
+
 Возможность добавлять товар на сервер и отрисовываем изменения в UI.
+
 ![3 3](https://user-images.githubusercontent.com/101303690/186926067-67602b33-b887-4c7f-abb8-8e160abb11ce.png)
 
 Роутинг
