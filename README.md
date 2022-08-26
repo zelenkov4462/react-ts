@@ -16,7 +16,7 @@ GET, POST запросы на сервер.
 
 ![3 3](https://user-images.githubusercontent.com/101303690/186926067-67602b33-b887-4c7f-abb8-8e160abb11ce.png)
 
-Роутинг
+Роутинг - AboutPage, ProductsPage.
 
 ![3 4](https://user-images.githubusercontent.com/101303690/186926072-24486b61-3903-4a32-b061-5de79a0e2de8.png)
 
